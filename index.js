@@ -1,5 +1,5 @@
 'use strict';
-/*
+
 // Задание 1
 function itsMe(a) {
     if (a !== undefined) {
@@ -10,10 +10,10 @@ function itsMe(a) {
         return 'Its me, tarasmilchenko97';
     }
 }
-*/
+
 
 // Задание 2
-/*
+
 function compare(num1, num2) {
 
     if (typeof num1 !== 'number') {
@@ -32,11 +32,11 @@ function compare(num1, num2) {
         console.log(`${num1} == ${num2}`);
     }
 }
-*/
+
 
 
 // Задание 3
-/*
+
 function row(n1, n2, n3, s4) {
     let arr1 = [n1, n2, n3];
     arr1.sort();
@@ -45,15 +45,15 @@ function row(n1, n2, n3, s4) {
 }
 
 alert(row(3, 4, -1,'<'));
-*/
+
 
 // Задание 4
-/*
+
 function fact(z) {
     return (z !== 1) ? z * fact(z - 1) : 1;
 }
 
-*/
+
 
 // Задание 5
 
